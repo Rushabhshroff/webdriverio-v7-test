@@ -30,5 +30,5 @@ chmod o+rx install.sh
 ### Run the Test
 
 ```
-npm fun first
+npm run first
 ```
