@@ -2,6 +2,10 @@
 
 ## GETIING STARTED
 
+### Prerequisites 
+
+* [Node JS](https://nodejs.org/)
+
 ### Clone this Package
 
 ```sh
