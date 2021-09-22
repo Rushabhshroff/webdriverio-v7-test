@@ -1,0 +1,46 @@
+{
+  "name": "webdriverio-v7-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "first": "wdio single.conf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/allure-reporter": "^7.12.5",
+    "@wdio/cli": "^7.12.6",
+    "@wdio/local-runner": "^7.12.5",
+    "@wdio/mocha-framework": "^7.12.5",
+    "@wdio/spec-reporter": "^7.12.5",
+    "@wdio/sync": "^7.12.5",
+    "assert": "^2.0.0",
+    "aws-sdk": "^2.972.0",
+    "browserstack-app-upload-js": "git+https://github.com/Rushabhshroff/browserstack-app-upload-js.git",
+    "config": "^1.28.1",
+    "dotenv": "^10.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.1",
+    "eslint-plugin-wdio": "^7.0.0",
+    "fs": "0.0.1-security",
+    "mocha": "^6.2.3",
+    "prettier": "^1.19.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "webdriverio": "^7.12.5",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0",
+    "@babel/plugin-proposal-class-properties": "^7.14.5",
+    "@babel/preset-env": "^7.15.0",
+    "@babel/register": "^7.15.3",
+    "@wdio/appium-service": "^7.12.5",
+    "@wdio/browserstack-service": "^7.12.5",
+    "node-fetch": "^2.x"
+  }
+}
