@@ -1,6 +1,6 @@
 # WebdriverIO V7 Browserstack Test
 
-## Installion
+## GETIING STARTED
 
 ### Clone this Package
 
